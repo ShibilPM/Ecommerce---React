@@ -11,41 +11,36 @@ class Directory extends React.Component {
     this.state = {
       sections: [
         {
-          title: "CATS",
-          imageUrl:
-            "https://images.unsplash.com/photo-1591290409635-b25231ce25d6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+          title: "hats",
+          imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
           id: 1,
-          linkUrl: "shop/cats",
+          linkUrl: "hats",
         },
         {
-          title: "DOGS",
-          imageUrl:
-            "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+          title: "jackets",
+          imageUrl: "https://i.ibb.co/px2tCc3/jackets.png",
           id: 2,
-          linkUrl: "shop/dogs",
+          linkUrl: "",
         },
         {
-          title: "BIRDS",
-          imageUrl:
-            "https://images.unsplash.com/photo-1477771736326-5a60ac787ac9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+          title: "sneakers",
+          imageUrl: "https://i.ibb.co/0jqHpnp/sneakers.png",
           id: 3,
-          linkUrl: "shop/birds",
+          linkUrl: "",
         },
         {
-          title: "NEST",
-          imageUrl:
-            "https://images.unsplash.com/photo-1591189425065-c15ece15878b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+          title: "womens",
+          imageUrl: "https://i.ibb.co/GCCdy8t/womens.png",
           size: "large",
           id: 4,
-          linkUrl: "shop/nest",
+          linkUrl: "",
         },
         {
-          title: "CAGE",
-          imageUrl:
-            "https://images.unsplash.com/photo-1506939754500-f27bc71fccd4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1508&q=80",
+          title: "mens",
+          imageUrl: "https://i.ibb.co/R70vBrQ/men.png",
           size: "large",
           id: 5,
-          linkUrl: "shop/cages",
+          linkUrl: "",
         },
       ],
     };

@@ -169,6 +169,69 @@ const SHOP_DATA = [
       },
     ],
   },
+  {
+    id: 3,
+    title: "Birds",
+    routeName: "birds",
+    items: [
+      {
+        id: 1,
+        name: "Abyssinian Lovebird",
+        imageUrl:
+          "https://www.coopsandcages.com.au/wp-content/uploads/2014/01/1-Bird-Abyssinian-Lovebird3.jpg",
+        price: 5000,
+      },
+      {
+        id: 2,
+        name: "African Gray Parrot",
+        imageUrl:
+          "https://www.coopsandcages.com.au/wp-content/uploads/2014/01/2-Bird-African-Gray-Parrot1.jpg",
+        price: 4000,
+      },
+      {
+        id: 3,
+        name: "Amazon Parrots",
+        imageUrl:
+          "https://www.coopsandcages.com.au/wp-content/uploads/2014/01/3-Bird-Amazon-Parrots1.jpg",
+        price: 7500,
+      },
+      {
+        id: 4,
+        name: "Australian King Parrot",
+        imageUrl:
+          "https://www.coopsandcages.com.au/wp-content/uploads/2014/01/4-Australian-King-Parrot1.jpg",
+        price: 6000,
+      },
+      {
+        id: 5,
+        name: "Black-throated Sparrow",
+        image:
+          "https://www.coopsandcages.com.au/wp-content/uploads/2014/01/5-Bird-Black-Throated-Sparrow1.jpg",
+        price: 3000,
+      },
+      {
+        id: 6,
+        name: "Border Canary",
+        imageUrl:
+          "https://www.coopsandcages.com.au/wp-content/uploads/2014/01/6-Bird-Border-Canary1.jpg",
+        price: 4000,
+      },
+      {
+        id: 7,
+        name: "Budgerigars",
+        imageUrl:
+          "https://www.coopsandcages.com.au/wp-content/uploads/2014/01/8-Bird-Budgerigar1.jpg",
+        price: 5500,
+      },
+      {
+        id: 8,
+        name: "Chattering Lory",
+        imageUrl:
+          "https://www.coopsandcages.com.au/wp-content/uploads/2014/01/11-Bird-Chattering-Lory1.jpg",
+        price: 6000,
+      },
+    ],
+  },
 ];
 
 export default SHOP_DATA;
